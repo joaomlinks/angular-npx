@@ -29,3 +29,9 @@
 
 #Angular 12: current <br>
 `npx -p @angular/cli@12.0.0 ng new angular11App`
+
+#Angular 13: current <br>
+`npx -p @angular/cli@13.3.9 ng new angular13App`
+
+#Angular 14: current <br>
+npx -p @angular/cli@14.1.0 ng new angular14App`
