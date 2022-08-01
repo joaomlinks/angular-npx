@@ -34,4 +34,4 @@
 `npx -p @angular/cli@13.3.9 ng new angular13App`
 
 #Angular 14: current <br>
-npx -p @angular/cli@14.1.0 ng new angular14App`
+`npx -p @angular/cli@14.1.0 ng new angular14App`
