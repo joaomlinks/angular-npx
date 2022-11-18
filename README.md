@@ -27,11 +27,15 @@
 #Angular 11: CLI version 11 (lts) <br>
 `npx -p @angular/cli@11.2.13 ng new angular11App`
 
-#Angular 12: current <br>
+#Angular 12 <br>
 `npx -p @angular/cli@12.0.0 ng new angular11App`
 
-#Angular 13: current <br>
+#Angular 13 <br>
 `npx -p @angular/cli@13.3.9 ng new angular13App`
 
-#Angular 14: current <br>
+#Angular 14 <br>
 `npx -p @angular/cli@14.1.0 ng new angular14App`
+
+#Angular 15.0.0: current <br>
+`npx -p @angular/cli@15.0.0 ng new angular14App`
+
